@@ -3,6 +3,8 @@ Aprendiz de Programação (C/C#)
 
 Me chamo Carlos Eduardo, tenho 18 anos e sou do espirito santo, ex.: natural de cachoeiro de itapemirim]. Sou iniciante na programação, com foco em aprender C e C# para desenvolver aplicações de software, jogos e sistemas. Atualmente, estou estudando Analise e desenvolvimeno de sistemas na UVV.
 
+<br/> <br/>
+ 
 🤖 Linguagens e Tecnologias
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
