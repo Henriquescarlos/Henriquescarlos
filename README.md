@@ -1,10 +1,9 @@
 👨‍💻 Carlos Eduardo
 Aprendiz de Programação (C/C#)
 
-Me chamo Carlos Eduardo, tenho 18 anos e sou do espirito santo, ex.: natural de cachoeiro de itapemirim]. Sou iniciante na programação, com foco em aprender C e C# para desenvolver aplicações de software, jogos e sistemas. Atualmente, estou estudando Analise e desenvolvimeno de sistemas na UVV.
+Me chamo Carlos Eduardo, tenho 18 anos e sou do Espirio Sano, ex.: natural de Cachoeiro de itapemirim. Sou iniciante na programação, com foco em aprender C e C# para desenvolver aplicações de software, jogos e sistemas. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas.
 
-<br/> <br/>
- 
+<p align="left"> <a href="https://github.com/[Seu Username]?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/[Seu Username]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/[Seu Username]?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/[Seu Username]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
 🤖 Linguagens e Tecnologias
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
