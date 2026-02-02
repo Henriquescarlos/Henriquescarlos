@@ -1,7 +1,7 @@
 👨‍💻 Carlos Eduardo
 Aprendiz de Programação (C/C#)
 
-Me chamo Carlos Eduardo, tenho [Sua Idade] anos e sou [Sua Localização, ex.: natural de [Cidade/Estado]]. Sou iniciante na programação, com foco em aprender C e C# para desenvolver aplicações de software, jogos e sistemas. Atualmente, estou estudando [Seu Curso ou Atividade Atual, ex.: Análise e Desenvolvimento de Sistemas] e compartilhando meu progresso através do meu [GitHub/LinkedIn, etc.]. Sou apaixonado por tecnologia e estou sempre buscando novos desafios para crescer nessa área.
+Me chamo Carlos Eduardo, tenho 18 anos e sou do espirito santo, ex.: natural de cachoeiro de itapemirim]. Sou iniciante na programação, com foco em aprender C e C# para desenvolver aplicações de software, jogos e sistemas. Atualmente, estou estudando Analise e desenvolvimeno de sistemas na UVV.
 
 <p align="left"> <!-- Se você tiver YouTube ou Instagram, adicione badges aqui. Caso contrário, remova ou substitua por outros links --> <a href="https://github.com/[Seu Username]?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/[Seu Username]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/[Seu Username]?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/[Seu Username]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
 🤖 Linguagens e Tecnologias
